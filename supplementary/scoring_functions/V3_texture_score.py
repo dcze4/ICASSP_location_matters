@@ -64,7 +64,7 @@ TEXTURE_TRAITS = {
     "very dark",  # Spectral Brightness bright <--> dark
     "slightly thin",  # Density thin <--> thick
     "thin",  # Density thin <--> thick
-    "very thin"  # Density thin <--> thick
+    "very thin",  # Density thin <--> thick
     "slightly thick",  # Density thin <--> thick
     "thick",  # Density thin <--> thick
     "very thick",  # Density thin <--> thick
